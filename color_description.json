@@ -1,14 +1,26 @@
 [
     {
         "description": "Sunny day at the beach.",
-        "color": "#FED8C6"
+        "color": [
+            255,
+            237,
+            111
+        ]
     },
     {
         "description": "Romantic evening with a sunset.",
-        "color": "#FFDAB9"
+        "color": [
+            255,
+            76,
+            76
+        ]
     },
     {
         "description": "A stormy night with dark clouds.",
-        "color": "#333333"
+        "color": [
+            255,
+            255,
+            0
+        ]
     }
 ]
