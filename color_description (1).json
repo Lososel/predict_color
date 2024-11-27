@@ -1,0 +1,34 @@
+[
+    {
+        "description": "Sunny day at the beach.",
+        "color": [
+            255,
+            223,
+            0
+        ]
+    },
+    {
+        "description": "Romantic evening with a sunset.",
+        "color": [
+            255,
+            210,
+            220
+        ]
+    },
+    {
+        "description": "A stormy night with dark clouds.",
+        "color": [
+            0,
+            51,
+            102
+        ]
+    },
+    {
+        "description": "Black",
+        "color": [
+            0,
+            0,
+            0
+        ]
+    }
+]
